@@ -1,0 +1,500 @@
+408, Picea_rubens, Picea_torano, Picea_maximowiczii
+317, Aegilops_sharonensis, Aegilops_speltoides, Dasypyrum_villosum
+166, Cupressus_austrotibetica, Tetraclinis_articulata
+117, Potamogeton_wrightii, Potamogeton_distinctus, Potamogeton_obtusifolius
+116, Pleioblastus_gramineus, Phyllostachys_nigra, Guadua_angustifolia
+114, Pinus_koraiensis, Pinus_cembra
+103, Encephalartos_princeps, Encephalartos_senticosus, Encephalartos_natalensis
+102, Rehdera_trinervis, Phyla_lanceolata
+81, Jubaea_chilensis, Lytocaryum_weddellianum, Polyandrococos_caudescens
+80, Osmanthus_yunnanensis, Osmanthus_marginatus
+75, Hordeum_pusillum, Heteranthelium_piliferum
+70, Dendrobium_wardianum, Dendrobium_gibsonii
+70, Picea_alcoquiana, Picea_glehnii
+68, Solanum_pennellii, Solanum_habrochaites
+65, Oryza_latifolia, Oryza_eichingeri
+60, Oligostachyum_sulcatum, Brachystachyum_densiflorum
+60, Lithospermum_multiflorum, Lithospermum_mirabile
+60, Fragaria_pentaphylla, Fragaria_nubicola
+58, Neurolepis_elata, Pleioblastus_simonii, Shibataea_kumasaca
+57, Cycas_revoluta, Bowenia_spectabilis, Dioon_spinulosum
+49, Stylosanthes_hamata, Stylosanthes_mexicana
+49, Larix_laricina, Larix_occidentalis
+48, Citrus_aurantiifolia, Citrus_medica
+47, Hopea_mengarawan, Hopea_helferi
+44, Hordeum_marinum, Hordeum_brachyantherum, Hordeum_arizonicum
+42, Encephalartos_villosus, Encephalartos_humilis
+42, Dendrobium_brymerianum, Dendrobium_fimbriatum
+40, Coffea_eugenioides, Coffea_liberica
+38, Eragrostis_weberbaueri, Eragrostis_tenuifolia
+36, Ceratozamia_kuesteriana, Ceratozamia_euryphyllidia, Ceratozamia_norstogii
+36, Manihot_anomala, Manihot_fruticulosa, Manihot_chlorosticta
+35, Glyceria_grandis, Glyceria_declinata
+33, Schizostachyum_funghomii, Menstruocalamus_sichuanensis, Phyllostachys_edulis
+32, Hydriastele_pinangoides, Astrocaryum_alatum
+31, Lycium_bosciifolium, Lycium_ferocissimum
+29, Echidnopsis_leachii, Caralluma_bhupinderana
+29, Passiflora_citrifolia, Passiflora_foetida
+28, Thujopsis_dolabrata, Thuja_plicata
+28, Protea_effusa, Protea_laurifolia
+28, Nuphar_advena, Nuphar_rubrodisca
+27, Primula_bulleyana, Primula_cockburniana
+26, Bambusa_bambos, Neosinocalamus_affinis, Monocladus_saxatilis
+26, Myricaria_wardii, Myricaria_laxiflora
+26, Encephalartos_lanatus, Encephalartos_inopinus
+32, Encephalartos_ghellinckii, Encephalartos_laevifolius
+26, Austrodanthonia_tenuior, Austrodanthonia_fulva, Austrodanthonia_laevis
+26, Osmanthus_attenuatus, Phillyrea_latifolia
+26, Sinapis_alba, Brassica_juncea
+25, Pseudopentameris_macrantha, Notodanthonia_longifolia
+25, Potamogeton_gramineus, Potamogeton_natans
+24, Euryops_speciosissimus, Euryops_virgineus
+24, Crucihimalaya_mollissima, Boechera_holboellii
+23, Avena_ventricosa, Avena_sativa
+23, Hesperolinon_micranthum, Hesperolinon_clevelandii
+22, Austrodanthonia_mera, Austrodanthonia_popinensis, Austrodanthonia_duttoniana
+22, Vitis_thunbergii, Vitis_davidii
+22, Gossypium_barbadense, Gossypium_mustelinum
+22, Castanea_sativa, Castanea_mollissima
+22, Malacomeles_denticulata, Eriobotrya_japonica, Malus_trilobata
+22, Salix_viminalis, Salix_purpurea, Salix_lucida
+22, Phytelephas_schottii, Phytelephas_tenuicaulis
+21, Lychnis_coronaria, Silene_conica
+21, Kohleria_spicata, Sinningia_cooperi
+21, Dioon_sonorense, Dioon_argenteum
+21, Potamogeton_dentatus, Potamogeton_lucens
+21, Cocos_nucifera, Syagrus_glaucescens
+21, Neotinea_maculata, Orchis_quadripunctata, Himantoglossum_robertianum
+20, Rhipsalis_paradoxa, Lepismium_cruciforme
+20, Veronica_thessalica, Veronica_saturejoides
+20, Doronicum_stenoglossum, Doronicum_dolichotrichum, Doronicum_haussknechtii
+20, Prunus_murrayana, Prunus_maritima
+19, Eleocharis_marginulata, Eleocharis_vivipara, Eleocharis_gracilis
+19, Leersia_tisserantii, Oryza_brachyantha, Oryza_granulata
+19, Hyalopoa_lanatiflora, Poa_glauca
+19, Echium_onosmifolium, Echium_handiense, Echium_pininana
+19, Flaveria_ramosissima, Flaveria_palmeri
+19, Polystachya_ottoniana, Polystachya_pubescens
+18, Austrodanthonia_induta, Austrodanthonia_monticola
+18, Hordeum_pubiflorum, Hordeum_fuegianum
+18, Ipomoea_ramosissima, Ipomoea_tenuissima, Ipomoea_tiliacea
+18, Potamogeton_berchtoldii, Potamogeton_amplifolius, Stuckenia_pectinata
+18, Dolichothrix_ericoides, Trichogyne_repens
+18, Arnica_longifolia, Arnica_unalaschcensis
+18, Atractylodes_lancea, Atractylodes_japonica
+18, Aesculus_tsiangii, Aesculus_chinensis
+17, Avena_hirtula, Avena_abyssinica, Avena_strigosa
+17, Fouquieria_diguetii, Fouquieria_burragei, Fouquieria_splendens
+17, Pseudoclappia_arenaria, Oxypappus_scaber
+17, Smelowskia_bifurcata, Smelowskia_porsildii, Smelowskia_calycina
+16, Panicum_bisulcatum, Panicum_miliaceum, Panicum_pilosum
+16, Typhonium_hirsutum, Typhonium_trilobatum, Typhonium_albidinervum
+16, Rhytidophyllum_leucomallon, Gesneria_ventricosa
+16, Centaurium_serpentinicola, Centaurium_capense
+17, Citrus_reticulata, Citrus_tachibana, Citrus_jambhiri
+16, Prosopis_pallida, Prosopis_velutina
+16, Magnolia_obovata, Magnolia_sieboldii
+15, Lycium_americanum, Lycium_shockleyi
+15, Melocalamus_arrectus, Himalayacalamus_intermedius
+15, Psilanthus_wightianus, Coffea_kapakata, Coffea_abeokutae
+15, Angelica_ampla, Angelica_sylvestris, Angelica_likiangensis
+15, Lycoris_longituba, Lycoris_albiflora
+14, Podocarpus_neriifolius, Podocarpus_annamiensis
+15, Picea_mexicana, Picea_asperata, Picea_wilsonii
+14, Lycium_barbarum, Lycium_europaeum
+14, Solanum_lycopersicoides, Solanum_juglandifolium, Solanum_dulcamara
+14, Physalis_alkekengi, Physalis_mendocina
+14, Glandularia_flava, Glandularia_aristigera
+14, Stachys_sylvatica, Stachys_argillicola
+14, Randia_petenensis, Randia_grandifolia
+14, Apium_graveolens, Pimpinella_anisum
+14, Chrysanthemum_vestitum, Chrysanthemum_lavandulifolium, Chrysanthemum_weyrichii
+14, Arachis_kretschmeri, Arachis_matiensis, Arachis_valida
+14, Corylus_yunnanensis, Corylus_heterophylla, Corylus_fargesii
+14, Clusia_fructiangusta, Clusia_pallida, Clusia_major
+14, Anaxagorea_panamensis, Anaxagorea_dolichocarpa, Anaxagorea_manausensis
+14, Calyptrogyne_costatifrons, Geonoma_congesta, Asterogyne_martiana
+13, Faurea_macnaughtonii, Protea_neriifolia
+13, Nolana_paradoxa, Nolana_humifusa
+13, Nicotiana_tabacum, Nicotiana_nudicaulis, Nicotiana_palmeri
+13, Echium_lusitanicum, Echium_nervosum, Echium_virescens
+15, Echium_decaisnei, Echium_candicans, Echium_hierrense
+13, Castilleja_lineariloba, Castilleja_attenuata
+13, Bambusa_tulda, Oxytenanthera_abyssinica, Dendrocalamus_latiflorus
+13, Phaneroglossa_bolusii, Eclipta_prostrata, Eupatorium_hyssopifolium
+13, Chrysanthemum_okiense, Chrysanthemum_crassum
+13, Aegilops_juvenalis, Aegilops_kotschyi, Aegilops_neglecta
+13, Saussurea_thoroldii, Saussurea_stella
+13, Sutera_hispida, Sutera_revoluta, Sutera_caerulea
+13, Malus_yunnanensis, Malus_x_domestica, Malus_sieversii
+13, Diplocyclos_palmatus, Zehneria_scabra
+13, Populus_deltoides, Populus_maximowiczii
+12, Kobresia_prattii, Kobresia_royleana
+12, Eustachys_distichophylla, Chloris_barbata, Cynodon_arcuatus
+12, Rytidosperma_pauciflorum, Rytidosperma_exiguum, Rytidosperma_telmaticum
+12, Paspalum_acuminatum, Paspalum_vaginatum, Paspalum_urvillei
+12, Veratrum_oblongum, Veratrum_mengtzeanum
+12, Coptis_quinquefolia, Coptis_lutescens
+12, Cephalotaxus_koreana, Cephalotaxus_oliveri, Cephalotaxus_fortunei
+12, Centaurium_scilloides, Centaurium_chloodes, Centaurium_malzacianum
+12, Polyscias_guilfoylei, Hedera_helix, Coriandrum_sativum
+12, Moringa_drouhardii
+12, Pinus_bungeana, Pinus_morrisonicola
+12, Chloroleucon_mangense, Lysiloma_tergeminum, Albizia_julibrissin
+12, Castanopsis_fissa, Castanopsis_carlesii, Castanopsis_cuspidata
+12, Chelyocarpus_ulei, Hemithrinax_compacta
+11, Sorghastrum_nutans, Cymbopogon_citratus
+11, Avena_vaviloviana, Lolium_perenne
+11, Festuca_ovina, Festuca_brevissima
+11, Papaver_somniferum, Ranunculus_macranthus
+11, Brownanthus_kuntzei, Brownanthus_schenckii, Brownanthus_arenosus
+19, Aspazoma_amplectens, Brownanthus_namibensis, Brownanthus_marlothii
+11, Menziesia_lasiophylla, Menziesia_multiflora
+11, Brownanthus_glareicola, Brownanthus_ciliatus
+11, Camellia_limonia, Camellia_euphlebia
+18, Camellia_chrysanthoides, Camellia_flavida
+11, Arisaema_amurense, Arisaema_heterophyllum, Arisaema_speciosum
+11, Eryngium_pristis, Eryngium_sanguisorba, Eryngium_nudicaule
+11, Gaertnera_psychotrioides, Gaertnera_arenaria
+11, Bathysa_peruviana, Ferdinandusa_speciosa
+11, Sonchus_brachylobus, Sonchus_tectifolius
+11, Gossypium_schwendimanii, Gossypium_gossypioides
+11, Citrus_indica
+12, Manihot_esculenta, Manihot_brachyloba, Manihot_cecropiifolia
+18, Manihot_rubricaulis, Manihot_pentaphylla, Manihot_peltata
+11, Caragana_ordosica, Caragana_dasyphylla, Caragana_stenophylla
+11, Spartium_junceum, Genista_tenera
+11, Gaertnera_edentata, Gaertnera_brevipedicellata
+11, Narcissus_papyraceus, Narcissus_albimarginatus
+11, Bactris_gasipaes, Acrocomia_aculeata
+10, Paepalanthus_elongatus, Paepalanthus_planifolius
+10, Paspalum_juergensii, Paspalum_haumanii
+10, Bambusa_vulgaris, Thamnocalamus_tessellatus
+10, Leymus_sabulosus, Leymus_akmolinensis
+10, Elymus_tibeticus, Elymus_sibiricus
+10, Androcymbium_asteroides, Androcymbium_eghimocymbion, Androcymbium_huntleyi
+10, Daphnandra_micrantha, Doryphora_sassafras, Laurelia_sempervirens
+10, Mammillaria_elongata, Mammillaria_backebergiana, Mammillaria_haageana
+10, Psilocaulon_parviflorum, Delosperma_echinatum
+10, Craibiodendron_yunnanense
+10, Solanum_oplocense, Solanum_raphanifolium
+10, Arum_orientale, Arum_nigrum, Arum_dioscoridis
+10, Encephalartos_heenanii, Encephalartos_ngoyanus
+10, Tetramerium_peruvianum, Tetramerium_yaquianum
+10, Gentianella_peruviana, Gentianella_quinquefolia, Gentianella_bellidifolia
+10, Eryngium_glossophyllum, Eryngium_buchtienii, Eryngium_maritimum
+10, Lonicera_rupicola, Lonicera_japonica, Lonicera_tangutica
+10, Lomatium_latilobum, Lomatium_ambiguum
+10, Cousinia_pallidivirens, Cousinia_umbrosa, Cousinia_karatavica
+10, Shorea_faguetiana, Shorea_multiflora, Shorea_selanica
+10, Lycium_chinense, Lycium_andersonii
+10, Gossypium_klotzschianum, Gossypium_thurberi, Gossypium_laxum
+10, Pyrus_betulifolia, Pyrus_fauriei
+10, Dendrobium_hercoglossum, Dendrobium_capillipes
+9, Oryza_meridionalis, Oryza_nivara
+9, Hordeum_jubatum, Hordeum_lechleri
+9, Hordeum_secalinum, Hordeum_tetraploidum
+9, Trillium_sessile, Trillium_cernuum
+9, Nepenthes_ventricosa, Nepenthes_thorelii
+9, Armeria_hirta, Armeria_berlengensis
+9, Stewartia_serrata, Stewartia_monadelpha
+9, Capsicum_annuum, Capsicum_pubescens
+9, Lithodora_zahnii, Cerinthe_major
+9, Wolffia_borealis, Wolffia_microscopica
+9, Fockea_edulis, Cibirhiza_dhofarensis
+9, Macoubea_guianensis, Tabernaemontana_citrifolia, Carvalhoa_campanulata
+9, Heracleum_dissectifolium, Heracleum_bivittatum
+9, Sonchus_tuberifer, Sonchus_palmensis, Sonchus_canariensis
+9, Cissus_penninervis, Nothocissus_spicifera
+9, Corylopsis_yunnanensis, Corylopsis_spicata, Corylopsis_willmottiae
+9, Shorea_scaberrima, Shorea_seminis, Shorea_javanica
+9, Severinia_buxifolia, Citrus_hongheensis
+9, Toddalia_asiatica, Coleonema_pulchrum
+9, Pyrus_pyraster, Pyrus_salicifolia, Pyrus_cossonii
+9, Morus_lhou, Morus_alba, Morus_rotundiloba
+9, Ophrestia_radicosa, Cajanus_cajan
+9, Betula_grossa, Betula_schmidtii, Betula_chichibuensis
+9, Clusia_nemorosa, Clusia_tocuchensis
+9, Manglietia_pachyphylla, Manglietia_insignis, Manglietia_rufibarbata
+9, Anaxagorea_pachypetala, Anaxagorea_javanica
+8, Austrodanthonia_racemosa, Austrodanthonia_penicillata
+8, Chimonanthus_praecox, Chimonanthus_zhejiangensis
+8, Phalaris_canariensis, Lolium_temulentum
+8, Androcymbium_cuspidatum, Androcymbium_ciliolatum, Androcymbium_henssenianum
+8, Epimedium_dolichostemon, Epimedium_pubescens, Epimedium_coactum
+8, Tasmannia_glaucifolia, Tasmannia_xerophila
+8, Silene_viscosa, Silene_diclinis
+8, Salsola_monoptera, Salsola_laricifolia
+8, Actinidia_melanandra, Actinidia_eriantha, Actinidia_hemsleyana
+8, Myrsine_salicina, Myrsine_aquilonia, Myrsine_divaricata
+8, Ipomoea_alba, Ipomoea_wrightii
+8, Hyoscyamus_niger, Scopolia_carniolica, Physochlaina_orientalis
+8, Napeanthus_jelskii, Napeanthus_reitzii
+8, Eryngium_coquimbanum, Eryngium_galioides, Eryngium_vaseyi
+8, Gaertnera_hispida, Gaertnera_pauciflora
+8, Cremanthodium_microglossum, Cremanthodium_decaisnei
+8, Doronicum_reticulatum, Doronicum_kamaonense, Doronicum_orientale
+8, Dahlia_campanulata, Dahlia_pteropoda, Dahlia_neglecta
+12, Dahlia_scapigera, Dahlia_spectabilis, Dahlia_sherffii
+8, Dubautia_waianapanapaensis, Dubautia_arborea
+8, Blumea_saxatilis, Blumea_lacera
+8, Aeonium_mascaense, Aeonium_holochrysum, Aeonium_gorgoneum
+8, Cicer_montbretii, Cicer_chorassanicum, Cicer_yamashitae
+8, Passiflora_multiflora
+8, Macaranga_havilandii, Macaranga_trachyphylla, Macaranga_calcicola
+8, Musa_acuminata, Musa_balbisiana, Musa_ingens
+7, Paspalum_almum, Axonopus_rosengurttii
+7, Bambusa_textilis, Bambusa_tuldoides, Bambusa_membranacea
+8, Funastrum_utahense, Funastrum_arenarium, Funastrum_odoratum
+7, Achnatherum_robustum, Amelichloa_clandestina
+7, Tinospora_malabarica
+7, Haberlea_rhodopensis, Saintpaulia_ionantha
+7, Negria_rhabdothamnoides, Sarmienta_repens
+7, Vassobia_breviflora, Witheringia_solanacea, Physalis_coztomatl
+7, Fraxinus_quadrangulata, Fraxinus_anomala, Fraxinus_trifoliolata
+7, Picea_purpurea
+7, Carthamus_tenuis, Carthamus_nitidus, Carthamus_lanatus
+7, Centaurea_paniculata, Centaurea_diffusa
+7, Thompsonella_xochipalensis, Thompsonella_spathulata
+7, Sonneratia_griffithii
+7, Hedyosmum_bonplandianum, Hedyosmum_mexicanum
+7, Lavatera_trimestris, Lavatera_plazzae
+7, Alcea_pallida, Alcea_aucheri, Alcea_rechingeri
+7, Astragalus_annularis, Astragalus_alopecias, Astragalus_sieversianus
+7, Neonotonia_wightii, Glycine_canescens
+7, Prunus_geniculata, Prunus_americana, Prunus_gracilis
+7, Platymiscium_filipes, Platymiscium_hebestachyum
+7, Jatropha_gossypiifolia, Jatropha_tanjorensis
+7, Chasmanthe_aethiopica, Gladiolus_papilio
+7, Iris_odaesanensis, Iris_thompsonii, Iris_innominata
+7, Cyrtanthus_montanus, Cyrtanthus_loddigesianus, Cyrtanthus_herrei
+7, Bentinckia_nicobarica, Dictyosperma_album
+6, Sohnsia_filifolia, Neobouteloua_lophostachya
+6, Distichlis_spicata, Distichlis_palmeri, Distichlis_distichophylla
+6, Chionochloa_flavicans, Chionochloa_vireta, Chionochloa_frigida
+6, Tripsacum_dactyloides, Zea_diploperennis, Elionurus_tripsacoides
+6, Brachypodium_pinnatum, Bromus_hordeaceus, Arrhenatherum_elatius
+6, Nassella_dasycarpa, Nassella_pubiflora, Nassella_depauperata
+6, Nassella_trichotoma, Nassella_filiculmis, Nassella_tenuissima
+6, Leymus_cinereus, Leymus_salinus
+6, Pseudoroegneria_strigosa, Kengyilia_batalinii
+6, Psathyrostachys_fragilis, Henrardia_persica
+6, Puccinellia_fasciculata, Catabrosa_aquatica, Puccinellia_glaucescens
+6, Calochortus_leichtlinii, Calochortus_clavatus, Calochortus_kennedyi
+6, Thalictrum_thalictroides, Thalictrum_revolutum
+6, Taxus_floridana, Taxus_canadensis
+6, Camptotheca_acuminata
+6, Rhododendron_scabrum, Rhododendron_yakuinsulare
+6, Encephalartos_munchii, Encephalartos_lehmannii, Encephalartos_latifrons
+7, Encephalartos_pterogonus, Encephalartos_woodii
+6, Petunia_saxicola, Petunia_bonjardinensis, Petunia_secreta
+6, Cyrtandra_glabra, Cyrtandra_longifolia
+6, Columnea_byrsina, Columnea_sanguinea
+6, Paliavana_tenuiflora, Paliavana_gracilis
+6, Glandularia_chiricahensis, Glandularia_mendocina
+6, Penstemon_cobaea, Penstemon_smallii
+6, Stachys_lindenii, Stachys_aethiopica
+6, Nepeta_supina, Nepeta_straussii
+6, Dipteracanthus_portellae, Strobilanthes_dyeriana
+6, Gentiana_nivalis, Gentiana_terglouensis
+6, Aspidosperma_megalocarpon, Aspidosperma_australe
+6, Kopsia_fruticosa, Amsonia_tabernaemontana
+6, Gaertnera_walkeri, Gaertnera_globigera
+6, Hedera_pastuchowii, Hedera_cypria, Hedera_azorica
+6, Matricaria_chamomilla, Artemisia_sphaerocephala
+6, Hypochaeris_microcephala, Hypochaeris_uniflora
+6, Carthamus_tinctorius, Centaurea_cyanus
+6, Kalanchoe_thyrsiflora, Kalanchoe_streptantha, Kalanchoe_marmorata
+6, Mitella_integripetala, Tiarella_polyphylla, Mitella_kiusiana
+6, Paeonia_anomala, Paeonia_lactiflora
+6, Clarkia_mildrediae, Clarkia_delicata
+6, Calepina_irregularis, Cardamine_flexuosa
+6, Boechera_arcuata, Boechera_lasiocarpa
+6, Lavatera_thuringiaca, Lavatera_bryoniifolia, Lavatera_flava
+6, Citrus_celebica
+6, Koelreuteria_paniculata, Alectryon_connatus
+6, Prunus_tomentosa, Prunus_spinosa
+6, Prunus_sargentii
+6, Aphananthe_aspera, Celtis_philippensis
+6, Astragalus_tetrapterus, Astragalus_pachypus
+6, Michelia_macclurei, Michelia_champaca, Michelia_foveolata
+6, Betula_papyrifera, Betula_insignis, Betula_utilis
+6, Quercus_salicina, Quercus_myrsinifolia
+6, Madagasikaria_andersonii, Tristellateia_australasiae
+6, Breynia_disticha
+6, Euphorbia_cyparissias, Euphorbia_segetalis, Euphorbia_dendroides
+6, Epipactis_muelleri, Epipactis_leptochila
+6, Goniothalamus_umbrosus
+6, Dendrobium_parishii, Dendrobium_harveyanum
+6, Sophronitis_bradei, Sophronitis_briegeri, Sophronitis_coccinea
+6, Lycoris_sanguinea, Lycoris_traubii
+6, Adonidia_merrillii, Ptychococcus_paradoxus, Ptychosperma_macarthurii
+5, Fimbristylis_ferruginea
+5, Glyptostrobus_pensilis, Taxodium_distichum, Cryptomeria_japonica
+5, Paspalum_dilatatum, Paspalum_flaccidum
+5, Pariana_radiciflora, Phyllostachys_bambusoides
+5, Hordeum_brevisubulatum
+5, Avena_fatua
+5, Lindera_communis, Lindera_metcalfiana, Litsea_monopetala
+5, Dysosma_pleiantha
+5, Roridula_gorgonias, Galax_urceolata, Styrax_japonicus
+5, Rhododendron_weyrichii, Rhododendron_wadanum, Rhododendron_tashiroi
+5, Dracophyllum_kirkii, Dracophyllum_longifolium
+5, Sarcosperma_laurinum, Argania_spinosa, Chrysophyllum_cainito
+5, Sinojackia_huangmeiensis, Sinojackia_rehderiana
+5, Lycium_pallidum, Lycium_ameghinoi
+5, Actinodaphne_maingayi, Actinodaphne_glomerata, Actinodaphne_henryi
+5, Solanum_linnaeanum, Solanum_aethiopicum, Solanum_elaeagnifolium
+5, Solanum_jamaicense, Solanum_panduriforme
+5, Dracunculus_canariensis, Arum_pictum, Dracunculus_vulgaris
+5, Misopates_orontium, Antirrhinum_subbaeticum
+8, Antirrhinum_charidemi, Antirrhinum_sempervirens, Antirrhinum_hispanicum
+5, Dioon_rzedowskii, Dioon_holmgrenii
+5, Salvia_substolonifera, Salvia_fruticosa, Salvia_yunnanensis
+5, Elodea_nuttallii, Najas_guadalupensis
+5, Acanthus_longifolius, Acanthus_sennii, Acanthus_pubescens
+5, Hoya_curtisii, Hoya_bella
+5, Pachycarpus_concolor, Pachycarpus_coronarius
+5, Ditassa_hispida, Ditassa_banksii, Ditassa_ditassoides
+5, Chimarrhis_turbinata, Capirona_decorticans
+5, Adoxa_moschatellina, Dipelta_yunnanensis
+5, Spiranthes_cernua, Spiranthes_sylvatica, Spiranthes_praecox
+5, Flaveria_angustifolia
+5, Andryala_pinnatifida, Hieracium_lactucella
+5, Penthorum_sedoides, Crassula_marnierana, Kalanchoe_pinnata
+5, Saxifraga_rotundifolia, Saxifraga_osloensis
+5, Paphiopedilum_hirsutissimum, Paphiopedilum_philippinense
+5, Eucalyptus_deglupta, Eucalyptus_bicostata, Eucalyptus_kitsoniana
+5, Descurainia_sophia, Arabidopsis_suecica
+5, Hopea_dryobalanoides, Hopea_pubescens
+5, Cymbidium_ensifolium, Cymbidium_sinense
+5, Pyrus_communis, Docyniopsis_tschonoskii
+5, Prunus_sibirica, Prunus_mandshurica
+5, Rosa_gymnocarpa, Rosa_laevigata, Rosa_xanthina
+9, Rosa_willmottiae, Rosa_rugosa
+5, Castilla_elastica, Ficus_insipida
+5, Medicago_truncatula, Medicago_heyniana
+5, Lathyrus_gmelinii, Lathyrus_vernus
+5, Vigna_caracalla, Vigna_angularis
+5, Rafnia_ovata, Aspalathus_linearis
+5, Begonia_taiwaniana, Begonia_palmata, Begonia_aptera
+5, Anaxagorea_petiolata, Anaxagorea_luzonensis
+6, Anaxagorea_acuminata, Anaxagorea_phaeocarpa
+5, Jaimehintonia_gypsophila, Milla_biflora
+5, Calamus_hollrungii, Metroxylon_salomonense
+5, Sabal_pumos, Sabal_causiarum, Sabal_domingensis
+5, Costus_montanus, Costus_barbatus, Costus_chartaceus
+4, Carex_turbinata, Carex_brainerdii
+4, Kobresia_fragilis, Kobresia_uncinioides
+4, Sporobolus_contractus, Spartina_pectinata
+4, Cenchrus_ciliaris
+4, Chimonobambusa_szechuanensis, Chimonobambusa_ningnanica
+4, Austrostipa_ramosissima, Austrostipa_elegantissima, Austrostipa_bigeniculata
+4, Nassella_cordobensis, Nassella_meyeri
+4, Elymus_longearistatus, Elymus_gmelinii, Elymus_abolinii
+4, Elymus_trachycaulus, Elymus_canadensis
+4, Eremopyrum_bonaepartis, Kengyilia_grandiglumis
+4, Kengyilia_mutica, Kengyilia_gobicola
+4, Androcymbium_rechingeri, Androcymbium_palaestinum
+4, Androcymbium_roseum, Androcymbium_gramineum
+4, Bomarea_caucana, Bomarea_setacea, Bomarea_bredemeyerana
+4, Bomarea_pauciflora, Bomarea_patinii, Bomarea_diffracta
+4, Adenanthos_sericeus
+4, Berberis_trifoliolata, Berberis_vulgaris, Berberis_japonica
+4, Ranunculus_sericophyllus
+4, Asarum_maruyamae, Asarum_dimidiatum, Asarum_patens
+4, Opuntia_streptacantha, Opuntia_humifusa
+4, Copiapoa_laui, Parodia_microsperma
+4, Neobuxbaumia_polylopha, Stenocereus_gummosus
+4, Phyllobolus_resurgens, Phyllobolus_viridiflorus, Phyllobolus_delus
+4, Sclerolaena_obliquicuspis, Maireana_planifolia
+4, Bienertia_sinuspersici
+4, Myricaria_platyphylla, Myricaria_squamosa
+4, Actinidia_setosa, Actinidia_rubricaulis
+4, Vaccinium_macrocarpon, Vaccinium_myrtillus, Agapetes_buxifolia
+4, Pycnandra_controversa
+4, Symplocos_paniculata, Symplocos_tinctoria, Symplocos_anomala
+4, Icacina_mannii, Borago_officinalis, Ehretia_cymosa
+4, Hydrolea_ovata, Ipomoea_batatas
+4, Jacquemontia_sphaerostigma, Jacquemontia_pentanthos, Jacquemontia_agrestis
+4, Calystegia_sepium, Cuscuta_compacta
+4, Solanum_acaule, Solanum_violaceimarmoratum, Solanum_commersonii
+4, Arum_rupicola, Arum_gratum
+4, Sessea_vestita, Cestrum_acutifolium
+4, Duranta_erecta, Petrea_volubilis
+4, Junellia_uniflora, Junellia_seriphioides, Junellia_mulinoides
+4, Plantago_australis, Plantago_lanceolata
+4, Sideritis_romana, Sideritis_dasygnaphala, Sideritis_hyssopifolia
+4, Mentha_x_piperita
+4, Abeliophyllum_distichum, Forsythia_europaea
+4, Fraxinus_xanthoxyloides, Fraxinus_longicuspis
+4, Osmanthus_x_fortunei, Osmanthus_delavayi
+4, Gentiana_siphonantha
+4, Stachys_officinalis, Stachys_byzantina
+4, Macrocarpaea_opulenta, Macrocarpaea_cinchonifolia
+4, Sebaea_exacoides, Sebaea_albidiflora
+4, Cynanchum_wilfordii
+4, Pandanus_peyrierasii, Pandanus_princeps, Pandanus_eydouxia
+4, Gaertnera_oblanceolata, Gaertnera_belemutensis, Gaertnera_schizocalyx
+4, Kraussia_floribunda, Pouchetia_baumanniana
+4, Coffea_pseudozanguebariae, Coffea_salvatrix
+4, Ilex_pedunculosa, Ilex_matanoana, Ilex_maximowicziana
+4, Lonicera_involucrata, Lonicera_nervosa
+4, Caralluma_priogonium, Caralluma_crenulata, Ceropegia_bulbosa
+4, Gastonia_cutispongia
+4, Schefflera_morototoni, Schefflera_arboricola
+4, Brassaiopsis_ciliata, Brassaiopsis_hainla, Brassaiopsis_glomerulata
+4, Podistera_macounii, Cnidium_officinale, Peucedanum_japonicum
+4, Heracleum_apiifolium, Heracleum_scabrum
+4, Heracleum_forrestii, Heracleum_yungningense
+4, Cyanea_kuhihewa, Cyanea_hirtella
+4, Tragopogon_pusillus, Tragopogon_brevirostris
+4, Hypochaeris_achyrophorus, Hypochaeris_laevigata
+4, Dasyphyllum_spinescens, Dasyphyllum_brasiliense
+4, Echinops_persicus, Echinops_niveus, Echinops_orientalis
+4, Saussurea_hookeri, Saussurea_globosa
+4, Vitis_arizonica
+4, Habenaria_dives
+4, Aeonium_glandulosum, Aeonium_glutinosum, Aeonium_spathulatum
+4, Disanthus_cercidifolius, Sycopsis_sinensis
+4, Pelargonium_cotyledonis, Erodium_chrysanthum
+4, Clidemia_septuplinervia
+8, Miconia_prasina, Miconia_argentea, Miconia_racemosa
+4, Aubrieta_deltoidea, Arabis_stelleri
+4, Stemonoporus_lancifolius, Stemonoporus_bullatus, Stemonoporus_canaliculatus
+4, Protium_pallidum, Protium_sagotianum, Protium_apiculatum
+4, Acer_rufinerve, Dipteronia_dyeriana
+4, Aesculus_parviflora, Aesculus_glabra
+4, Amelanchier_bartramiana, Crataegus_okennonii
+4, Malus_sargentii, Photinia_villosa
+4, Physocarpus_opulifolius, Physocarpus_capitatus
+4, Fragaria_vesca, Fragaria_chiloensis
+4, Monnina_phytolaccifolia, Monnina_phillyreoides
+4, Prosopis_africana, Acacia_caven
+4, Astragalus_nothoxys, Oxytropis_sericea
+4, Abies_veitchii, Abies_cephalonica
+4, Lupinus_mexicanus, Lupinus_luteus
+4, Pescatoria_pulvinaris, Pescatoria_cerina, Pescatoria_ecuadorana
+4, Carya_ovata, Annamocarya_sinensis, Cyclocarya_paliurus
+4, Abies_alba
+4, Platonia_insignis, Lorostemon_coelhoi
+4, Telipogon_pogonostalix, Zygostates_alleniana
+4, Parnassia_laxmannii, Parnassia_glauca
+4, Coelogyne_kelamensis, Coelogyne_macdonaldii, Coelogyne_beccarii
+4, Coelogyne_harana, Coelogyne_naja, Coelogyne_monilirachis
+4, Laelia_speciosa, Caularthron_bilamellatum
+4, Chambeyronia_macrocarpa, Archontophoenix_purpurea
+4, Musa_laterita
+4, Mosannona_discolor, Mosannona_pacifica
+4, Boesenbergia_rotunda
+4, Kaempferia_parviflora, Kaempferia_rotunda, Kaempferia_angustifolia
+4, Tillandsia_aeranthos, Tillandsia_usneoides, Tillandsia_mauryana
+3, Carex_scirpoidea
+3, Ficinia_esterhuyseniae, Ficinia_bergiana
+3, Gynerium_sagittatum, Chasmanthium_latifolium
+3, Compsoneura_sprucei, Knema_latericia
+3, Danthonia_californica, Danthonia_secundiflora
+3, Pentameris_distichophylla, Pentameris_macrocalycina, Pentameris_oreophila
+3, Paspalum_ionanthum, Pennisetum_glaucum
+3, Lindera_reflexa, Litsea_elongata, Neolitsea_confertifolia
+3, Dinebra_retroflexa, Trichloris_crinita

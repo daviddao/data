@@ -1,0 +1,215 @@
+
+
+This is RAxML version 8.0.25 released by Alexandros Stamatakis on June 16 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML large-tree plausibility-checker
+
+
+RAxML was called as follows:
+
+./raxmlHPC -f R -m GTRCAT -t ./data/largetree.txt -z ./data/filtered_stbase_all_firstiteration_only.txt -n Tall_first_only 
+
+
+Parsing reference tree ./data/largetree.txt
+The reference tree has 55473 tips
+
+
+Found 9175 trees in File ./data/filtered_stbase_all_firstiteration_only.txt
+
+Relative RF tree 0: 1.000000
+
+Relative RF tree 114: 1.000000
+
+Relative RF tree 235: 1.000000
+
+Relative RF tree 356: 1.000000
+
+Relative RF tree 475: 1.000000
+
+Relative RF tree 591: 1.000000
+
+Relative RF tree 699: 1.000000
+
+Relative RF tree 809: 0.833333
+
+Relative RF tree 913: 0.000000
+
+Relative RF tree 1018: 1.000000
+
+Relative RF tree 1119: 1.000000
+
+Relative RF tree 1219: 1.000000
+
+Relative RF tree 1327: 1.000000
+
+Relative RF tree 1427: 1.000000
+
+Relative RF tree 1539: 1.000000
+
+Relative RF tree 1640: 1.000000
+
+Relative RF tree 1743: 1.000000
+
+Relative RF tree 1852: 1.000000
+
+Relative RF tree 1956: 1.000000
+
+Relative RF tree 2057: 1.000000
+
+Relative RF tree 2160: 1.000000
+
+Relative RF tree 2283: 1.000000
+
+Relative RF tree 2390: 1.000000
+
+Relative RF tree 2495: 1.000000
+
+Relative RF tree 2595: 1.000000
+
+Relative RF tree 2699: 1.000000
+
+Relative RF tree 2816: 1.000000
+
+Relative RF tree 2919: 1.000000
+
+Relative RF tree 3037: 1.000000
+
+Relative RF tree 3140: 1.000000
+
+Relative RF tree 3240: 1.000000
+
+Relative RF tree 3365: 1.000000
+
+Relative RF tree 3466: 1.000000
+
+Relative RF tree 3568: 1.000000
+
+Relative RF tree 3670: 1.000000
+
+Relative RF tree 3796: 1.000000
+
+Relative RF tree 3897: 1.000000
+
+Relative RF tree 3999: 1.000000
+
+Relative RF tree 4104: 1.000000
+
+Relative RF tree 4219: 0.000000
+
+Relative RF tree 4327: 1.000000
+
+Relative RF tree 4427: 1.000000
+
+Relative RF tree 4531: 0.000000
+
+Relative RF tree 4649: 1.000000
+
+Relative RF tree 4762: 1.000000
+
+Relative RF tree 4862: 1.000000
+
+Relative RF tree 4962: 1.000000
+
+Relative RF tree 5083: 1.000000
+
+Relative RF tree 5184: 1.000000
+
+Relative RF tree 5287: 1.000000
+
+Relative RF tree 5387: 0.000000
+
+Relative RF tree 5540: 1.000000
+
+Relative RF tree 5653: 1.000000
+
+Relative RF tree 5754: 1.000000
+
+Relative RF tree 5856: 1.000000
+
+Relative RF tree 5957: 1.000000
+
+Relative RF tree 6072: 1.000000
+
+Relative RF tree 6189: 1.000000
+
+Relative RF tree 6303: 1.000000
+
+Relative RF tree 6453: 1.000000
+
+Relative RF tree 6554: 1.000000
+
+Relative RF tree 6654: 1.000000
+
+Relative RF tree 6754: 1.000000
+
+Relative RF tree 6855: 1.000000
+
+Relative RF tree 6968: 1.000000
+
+Relative RF tree 7154: 1.000000
+
+Relative RF tree 7263: 1.000000
+
+Relative RF tree 7382: 1.000000
+
+Relative RF tree 7482: 1.000000
+
+Relative RF tree 7589: 1.000000
+
+Relative RF tree 7689: 1.000000
+
+Relative RF tree 7791: 1.000000
+
+Relative RF tree 7891: 1.000000
+
+Relative RF tree 7991: 1.000000
+
+Relative RF tree 8091: 1.000000
+
+Relative RF tree 8214: 1.000000
+
+Relative RF tree 8317: 1.000000
+
+Relative RF tree 8424: 1.000000
+
+Relative RF tree 8525: 1.000000
+
+Relative RF tree 8631: 1.000000
+
+Relative RF tree 8731: 1.000000
+
+Relative RF tree 8831: 1.000000
+
+Relative RF tree 8931: 1.000000
+
+Relative RF tree 9073: 1.000000
+
+Relative RF tree 9173: 1.000000
+
+Number of small trees skipped: 773
+
+Average RF distance 0.964465
+
+Large Tree: 55473, Number of SmallTrees analyzed: 8402 
+
+Total execution time: 1.189683 secs
+
+File containing all 8402 pair-wise RF distances written to file /Users/David/Desktop/iteration/RAxML_RF-Distances.Tall_first_only
+
+execution stats:
+
+Accumulated time Effective algorithm: 0.07781 sec 
+Average time for effective: 0.0000092608 sec 
+Preprocessingtime: 0.03488 sec 
+

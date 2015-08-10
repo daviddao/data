@@ -1,0 +1,65 @@
+
+
+This is RAxML version 8.0.25 released by Alexandros Stamatakis on June 16 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML large-tree plausibility-checker
+
+
+RAxML was called as follows:
+
+./raxmlHPC -f R -m GTRCAT -t ./data/150.tre.txt -z ./data/150.bs.txt -n rogue 
+
+
+Parsing reference tree ./data/150.tre.txt
+The reference tree has 151 tips
+
+
+Found 1000 trees in File ./data/150.bs.txt
+
+Relative RF tree 0: 0.340136
+
+Relative RF tree 100: 0.340136
+
+Relative RF tree 200: 0.238095
+
+Relative RF tree 300: 0.340136
+
+Relative RF tree 400: 0.319728
+
+Relative RF tree 500: 0.367347
+
+Relative RF tree 600: 0.380952
+
+Relative RF tree 700: 0.394558
+
+Relative RF tree 800: 0.353741
+
+Relative RF tree 900: 0.353741
+
+Number of small trees skipped: 0
+
+Average RF distance 0.341592
+
+Large Tree: 151, Number of SmallTrees analyzed: 1000 
+
+Total execution time: 1.044228 secs
+
+File containing all 1000 pair-wise RF distances written to file /Users/David/Desktop/iteration/RAxML_RF-Distances.rogue
+
+execution stats:
+
+Accumulated time Effective algorithm: 0.53482 sec 
+Average time for effective: 0.0005348179 sec 
+Preprocessingtime: 0.00065 sec 
+

@@ -1,0 +1,277 @@
+
+
+This is RAxML version 8.0.25 released by Alexandros Stamatakis on June 16 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML large-tree plausibility-checker
+
+
+RAxML was called as follows:
+
+./raxmlHPC -f R -m GTRCAT -t ./data/largetree.txt -z ./data/filtered_stbase_all.txt -n Tall 
+
+
+Parsing reference tree ./data/largetree.txt
+The reference tree has 55473 tips
+
+
+Found 15619 trees in File ./data/filtered_stbase_all.txt
+
+Relative RF tree 0: 1.000000
+
+Relative RF tree 102: 1.000000
+
+Relative RF tree 205: 0.000000
+
+Relative RF tree 315: 0.750000
+
+Relative RF tree 420: 0.500000
+
+Relative RF tree 525: 1.000000
+
+Relative RF tree 626: 0.666667
+
+Relative RF tree 730: 0.500000
+
+Relative RF tree 832: 1.000000
+
+Relative RF tree 935: 1.000000
+
+Relative RF tree 1036: 0.000000
+
+Relative RF tree 1138: 0.000000
+
+Relative RF tree 1246: 0.000000
+
+Relative RF tree 1354: 1.000000
+
+Relative RF tree 1462: 1.000000
+
+Relative RF tree 1573: 0.000000
+
+Relative RF tree 1678: 0.000000
+
+Relative RF tree 1788: 0.666667
+
+Relative RF tree 1894: 0.000000
+
+Relative RF tree 2002: 0.500000
+
+Relative RF tree 2103: 1.000000
+
+Relative RF tree 2215: 1.000000
+
+Relative RF tree 2327: 1.000000
+
+Relative RF tree 2455: 0.000000
+
+Relative RF tree 2562: 1.000000
+
+Relative RF tree 2673: 1.000000
+
+Relative RF tree 2776: 0.500000
+
+Relative RF tree 2881: 0.500000
+
+Relative RF tree 3021: 0.333333
+
+Relative RF tree 3131: 1.000000
+
+Relative RF tree 3246: 0.500000
+
+Relative RF tree 3350: 0.000000
+
+Relative RF tree 3456: 1.000000
+
+Relative RF tree 3557: 0.000000
+
+Relative RF tree 3666: 0.000000
+
+Relative RF tree 3787: 0.000000
+
+Relative RF tree 3909: 1.000000
+
+Relative RF tree 4021: 1.000000
+
+Relative RF tree 4152: 1.000000
+
+Relative RF tree 4267: 1.000000
+
+Relative RF tree 4373: 0.500000
+
+Relative RF tree 4477: 1.000000
+
+Relative RF tree 4582: 1.000000
+
+Relative RF tree 4692: 0.000000
+
+Relative RF tree 4800: 1.000000
+
+Relative RF tree 4939: 0.000000
+
+Relative RF tree 5080: 1.000000
+
+Relative RF tree 5226: 0.000000
+
+Relative RF tree 5359: 1.000000
+
+Relative RF tree 5464: 0.500000
+
+Relative RF tree 5590: 0.000000
+
+Relative RF tree 5737: 1.000000
+
+Relative RF tree 5851: 1.000000
+
+Relative RF tree 5959: 1.000000
+
+Relative RF tree 6073: 1.000000
+
+Relative RF tree 6198: 0.000000
+
+Relative RF tree 6301: 1.000000
+
+Relative RF tree 6411: 0.000000
+
+Relative RF tree 6520: 0.000000
+
+Relative RF tree 6651: 1.000000
+
+Relative RF tree 6759: 1.000000
+
+Relative RF tree 6937: 0.000000
+
+Relative RF tree 7061: 0.000000
+
+Relative RF tree 7239: 0.000000
+
+Relative RF tree 7368: 1.000000
+
+Relative RF tree 7520: 0.000000
+
+Relative RF tree 7635: 1.000000
+
+Relative RF tree 7739: 0.000000
+
+Relative RF tree 7913: 1.000000
+
+Relative RF tree 8089: 0.000000
+
+Relative RF tree 8256: 1.000000
+
+Relative RF tree 8460: 1.000000
+
+Relative RF tree 8609: 1.000000
+
+Relative RF tree 8743: 0.000000
+
+Relative RF tree 8904: 0.000000
+
+Relative RF tree 9062: 1.000000
+
+Relative RF tree 9166: 1.000000
+
+Relative RF tree 9287: 1.000000
+
+Relative RF tree 9408: 1.000000
+
+Relative RF tree 9533: 0.000000
+
+Relative RF tree 9661: 1.000000
+
+Relative RF tree 9770: 1.000000
+
+Relative RF tree 9884: 0.000000
+
+Relative RF tree 10114: 1.000000
+
+Relative RF tree 10366: 1.000000
+
+Relative RF tree 10638: 1.000000
+
+Relative RF tree 10771: 1.000000
+
+Relative RF tree 10944: 1.000000
+
+Relative RF tree 11060: 1.000000
+
+Relative RF tree 11203: 1.000000
+
+Relative RF tree 11320: 1.000000
+
+Relative RF tree 11445: 1.000000
+
+Relative RF tree 11761: 1.000000
+
+Relative RF tree 12044: 1.000000
+
+Relative RF tree 12251: 1.000000
+
+Relative RF tree 12593: 1.000000
+
+Relative RF tree 12750: 1.000000
+
+Relative RF tree 12944: 1.000000
+
+Relative RF tree 13046: 1.000000
+
+Relative RF tree 13219: 1.000000
+
+Relative RF tree 13612: 1.000000
+
+Relative RF tree 13720: 1.000000
+
+Relative RF tree 13842: 1.000000
+
+Relative RF tree 13965: 1.000000
+
+Relative RF tree 14084: 1.000000
+
+Relative RF tree 14219: 1.000000
+
+Relative RF tree 14346: 1.000000
+
+Relative RF tree 14455: 1.000000
+
+Relative RF tree 14566: 1.000000
+
+Relative RF tree 14683: 1.000000
+
+Relative RF tree 14829: 1.000000
+
+Relative RF tree 14984: 1.000000
+
+Relative RF tree 15103: 1.000000
+
+Relative RF tree 15215: 1.000000
+
+Relative RF tree 15330: 1.000000
+
+Relative RF tree 15512: 1.000000
+
+Number of small trees skipped: 4025
+
+Average RF distance 0.728758
+
+Large Tree: 55473, Number of SmallTrees analyzed: 11594 
+
+Total execution time: 1.542200 secs
+
+File containing all 11594 pair-wise RF distances written to file /Users/David/Desktop/iteration/RAxML_RF-Distances.Tall
+
+execution stats:
+
+Accumulated time Effective algorithm: 0.10346 sec 
+Average time for effective: 0.0000089239 sec 
+Preprocessingtime: 0.03861 sec 
+
